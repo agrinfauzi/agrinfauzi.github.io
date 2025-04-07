@@ -4,14 +4,10 @@
   
   <url>
     <loc>https://agrinfauzi.me/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://agrinfauzi.me/"/>
   </url>
-  
-  <url>
-    <loc>https://agrinfauzi.me/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://agrinfauzi.me/tags/</loc>
-  </url>
-  
+
 </urlset>
